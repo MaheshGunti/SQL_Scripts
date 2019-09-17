@@ -1,0 +1,5 @@
+
+SELECT 
+*
+FROM 
+(SELECT NULL AS x)x 
